@@ -16,12 +16,8 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-- C
-- C++
 - TypeScript
 - JavaScript
-- Go
-- Ruby
 
 ### 🌐 Frontend
 - React
@@ -32,7 +28,7 @@
 - Node.js
 - Express.js
 - WebSockets
-- Supabase
+- Prisma
 
 ### 🗄 Databases
 - PostgreSQL
@@ -58,15 +54,6 @@
 
 ---
 
-### ⌨️ Typing Engine (Monkeytype Clone)
-> Custom typing engine with key tracking and accuracy calculation.
-
-- Keyboard event handling
-- Speed calculation logic
-- React + TypeScript
-- Performance optimized rendering
-
----
 
 ## 📊 GitHub Stats
 
@@ -89,12 +76,6 @@
 
 ---
 
-## 📫 Connect With Me
 
-- LinkedIn: (add link)
-- Twitter: (add link)
-- Portfolio: (add link)
-
----
 
 ⭐ Always open to collaborating on interesting projects!
